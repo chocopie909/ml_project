@@ -1,0 +1,65 @@
+{
+  "commit": "b4ba2232c1b4b5258a10d3f50a0fba94451d0677",
+  "files": [
+    {
+      "upstream_path": "ML-HSE/hw1-linear-regression/linreg.ipynb",
+      "local_path": "notebooks/01-linear-regression/linreg.ipynb",
+      "upstream_sha256": "38c017ed4a1e2597962dcf3cd88005b26ae35b1c62086e08191afded008c9d21",
+      "local_sha256": "7cca6c385ad208b52f24756b69321b02e6effaefe9a19728d7af534e0769149d"
+    },
+    {
+      "upstream_path": "ML-HSE/hw2-gradient-descent/descents.py",
+      "local_path": "notebooks/02-gradient-descent/descents.py",
+      "upstream_sha256": "70a5bab3645db6b6784111af3ee36512c36c8eaf18f7103e87d701dea64d62bb",
+      "local_sha256": "70a5bab3645db6b6784111af3ee36512c36c8eaf18f7103e87d701dea64d62bb"
+    },
+    {
+      "upstream_path": "ML-HSE/hw2-gradient-descent/gradient_descent.ipynb",
+      "local_path": "notebooks/02-gradient-descent/gradient_descent.ipynb",
+      "upstream_sha256": "c4b62600f343e76284e277ff4c1ffc36439efd6e3fe186b4220708e23609fda2",
+      "local_sha256": "fe55508f5415ca470935b49840eb066b2a66c40af08a12665c223a3339b259fd"
+    },
+    {
+      "upstream_path": "ML-HSE/hw2-gradient-descent/linear_regression.py",
+      "local_path": "notebooks/02-gradient-descent/linear_regression.py",
+      "upstream_sha256": "88cca62003ce644a7ed988936763cd0aa29d3a239da027afc302fd1ddb25f962",
+      "local_sha256": "88cca62003ce644a7ed988936763cd0aa29d3a239da027afc302fd1ddb25f962"
+    },
+    {
+      "upstream_path": "ML-HSE/hw3-linear-classification/adult.data",
+      "local_path": "notebooks/03-linear-classification/adult.data",
+      "upstream_sha256": "5b00264637dbfec36bdeaab5676b0b309ff9eb788d63554ca0a249491c86603d",
+      "local_sha256": "5b00264637dbfec36bdeaab5676b0b309ff9eb788d63554ca0a249491c86603d"
+    },
+    {
+      "upstream_path": "ML-HSE/hw3-linear-classification/linclass.ipynb",
+      "local_path": "notebooks/03-linear-classification/linclass.ipynb",
+      "upstream_sha256": "449ebd2a2b293f8f51331cc6cd81b9fb07b1747ea0a039740bdc84fbd2456a6b",
+      "local_sha256": "97dc9609a385fce024044496e83ff19980f66a0ad643f2c04e690c34b97118aa"
+    },
+    {
+      "upstream_path": "ML-HSE/hw4-decision-trees/hw5code.py",
+      "local_path": "notebooks/04-decision-trees/hw5code.py",
+      "upstream_sha256": "eeb033882725874c451affbe19a268a886d685fcc9a8bb41db830d96d13bcce4",
+      "local_sha256": "eeb033882725874c451affbe19a268a886d685fcc9a8bb41db830d96d13bcce4"
+    },
+    {
+      "upstream_path": "ML-HSE/hw4-decision-trees/trees.ipynb",
+      "local_path": "notebooks/04-decision-trees/trees.ipynb",
+      "upstream_sha256": "3f2112c1656f37dca9d717f456eb62c075c40aedeb18318ff033a4e84934d7e5",
+      "local_sha256": "5825ecb39211744eab217da9ba617f279819325277fcfac71692ec811dea72c7"
+    },
+    {
+      "upstream_path": "ML-HSE/hw5-boosting/boosting.ipynb",
+      "local_path": "notebooks/05-boosting/boosting.ipynb",
+      "upstream_sha256": "4d9bca6a4c5de12c481132fbb9373f8d143d25939ad997284383f0ef46219ddb",
+      "local_sha256": "beea609a423ad469eceb029a92e99a81fe73b6ebc5c5ebeb0c1d9ce4a1b0d3ae"
+    },
+    {
+      "upstream_path": "ML-HSE/hw5-boosting/boosting.py",
+      "local_path": "notebooks/05-boosting/boosting.py",
+      "upstream_sha256": "1705a239dde012168aefc1a3bb5f3516ed4fab4bc42c58caf477308a75a0b1d3",
+      "local_sha256": "1705a239dde012168aefc1a3bb5f3516ed4fab4bc42c58caf477308a75a0b1d3"
+    }
+  ]
+}

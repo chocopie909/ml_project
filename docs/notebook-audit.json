@@ -1,0 +1,47 @@
+[
+  {
+    "notebook": "notebooks/01-linear-regression/linreg.ipynb",
+    "local_data_references": [
+      "/content/train.csv"
+    ],
+    "execution": "not_run",
+    "code_cells": 62
+  },
+  {
+    "notebook": "notebooks/02-gradient-descent/gradient_descent.ipynb",
+    "local_data_references": [
+      "autos.csv"
+    ],
+    "execution": "not_run",
+    "code_cells": 36
+  },
+  {
+    "notebook": "notebooks/03-linear-classification/linclass.ipynb",
+    "local_data_references": [
+      "adult.data",
+      "bank-additional/bank-additional-full.csv"
+    ],
+    "execution": "not_run",
+    "code_cells": 69
+  },
+  {
+    "notebook": "notebooks/04-decision-trees/trees.ipynb",
+    "local_data_references": [
+      "agaricus-lepiota.data",
+      "students.csv",
+      "tic-tac-toe-endgame.csv"
+    ],
+    "execution": "not_run",
+    "code_cells": 18
+  },
+  {
+    "notebook": "notebooks/05-boosting/boosting.ipynb",
+    "local_data_references": [
+      "bonuska.jpg",
+      "x.npz",
+      "y.npy"
+    ],
+    "execution": "not_run",
+    "code_cells": 34
+  }
+]
