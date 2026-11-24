@@ -1,0 +1,12 @@
+-r requirements.txt
+seaborn
+folium
+requests
+kagglehub
+torch
+optuna
+xgboost
+catboost
+tqdm
+tabulate
+pillow
