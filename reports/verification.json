@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "python": "3.12.14",
+  "platform": "Windows",
+  "checks": [
+    "pytest",
+    "five_experiments",
+    "six_notebooks_clean_kernels"
+  ],
+  "seconds": 88.93
+}

@@ -1,0 +1,7 @@
+model,C,val_roc_auc
+Logistic regression,0.1,0.9950867998689813
+Logistic regression,1.0,0.9957418932197839
+Logistic regression,10.0,0.9957418932197839
+Calibrated SVM,0.1,0.9882083196855552
+Calibrated SVM,1.0,0.996069439895185
+Calibrated SVM,10.0,0.9957418932197838

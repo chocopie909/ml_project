@@ -1,0 +1,13 @@
+model,rate,depth,val_roc_auc
+Custom logistic boosting,0.05,1,0.9764166393711102
+Custom logistic boosting,0.05,2,0.973141172617098
+Custom logistic boosting,0.1,1,0.9803471994759254
+Custom logistic boosting,0.1,2,0.9829675728791353
+Custom logistic boosting,0.3,1,0.982640026203734
+Custom logistic boosting,0.3,2,0.9901735997379627
+sklearn gradient boosting,0.05,1,0.9846053062561415
+sklearn gradient boosting,0.05,2,0.9927939731411726
+sklearn gradient boosting,0.1,1,0.9908286930887652
+sklearn gradient boosting,0.1,2,0.9934490664919751
+sklearn gradient boosting,0.3,1,0.9931215198165739
+sklearn gradient boosting,0.3,2,0.9957418932197839

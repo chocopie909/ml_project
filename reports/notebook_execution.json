@@ -1,0 +1,38 @@
+[
+  {
+    "notebook": "00-project-overview.ipynb",
+    "code_cells": 2,
+    "status": "passed",
+    "seconds": 9.33
+  },
+  {
+    "notebook": "01-regression.ipynb",
+    "code_cells": 6,
+    "status": "passed",
+    "seconds": 9.49
+  },
+  {
+    "notebook": "02-optimization.ipynb",
+    "code_cells": 5,
+    "status": "passed",
+    "seconds": 9.68
+  },
+  {
+    "notebook": "03-classification.ipynb",
+    "code_cells": 5,
+    "status": "passed",
+    "seconds": 8.7
+  },
+  {
+    "notebook": "04-trees.ipynb",
+    "code_cells": 4,
+    "status": "passed",
+    "seconds": 8.66
+  },
+  {
+    "notebook": "05-boosting.ipynb",
+    "code_cells": 3,
+    "status": "passed",
+    "seconds": 15.89
+  }
+]

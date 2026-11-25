@@ -1,8 +1,0 @@
-task,model,rmse,r2,accuracy,roc_auc
-regression,DummyMean,123.52427117795395,-0.0011967574319722285,,
-regression,Ridge,18.75952384455881,0.9769081644534243,,
-classification,DummyPrior,,,0.5,0.5
-classification,LogisticRegression,,,0.712,0.7773599999999999
-classification,SVM,,,0.866,0.939936
-classification,DecisionTree,,,0.754,0.8089759999999999
-classification,GradientBoosting,,,0.838,0.9064639999999999

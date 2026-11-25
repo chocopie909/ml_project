@@ -1,12 +1,35 @@
 {
   "seed": 42,
-  "rows_per_task": 2000,
-  "train_rows": 1500,
-  "test_rows": 500,
-  "data": "synthetic sklearn generators; no external data",
-  "selection": "fixed parameters, no holdout tuning",
+  "split": "60/20/20; validation selects parameters; test is untouched until evaluation",
   "python": "3.12.14",
   "numpy": "2.3.5",
   "pandas": "3.0.1",
-  "sklearn": "1.9.1"
+  "sklearn": "1.9.1",
+  "positive_class": "malignant = 1",
+  "datasets": {
+    "regression": {
+      "shape": [
+        442,
+        10
+      ],
+      "sha256": "839c546b0b4ac02c2e6cbe5e5c92313cefa993446c9733e9b49477cc3f96e104",
+      "split_sizes": {
+        "train": 264,
+        "val": 89,
+        "test": 89
+      }
+    },
+    "classification": {
+      "shape": [
+        569,
+        30
+      ],
+      "sha256": "28fc6b7cdb8a1824689c926a6004e0800c4032a4ee1db540331d0b293ff2a468",
+      "split_sizes": {
+        "train": 341,
+        "val": 114,
+        "test": 114
+      }
+    }
+  }
 }
